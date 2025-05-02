@@ -1,22 +1,14 @@
-# React-Calculator-Project
+# Калькулятор
 
+![Calculator Preview](calculator-screenshot.png) <!-- (замените на реальный скриншот) -->
 
+Простой и удобный калькулятор с базовыми математическими операциями, реализованный на React.
 
-### Requirements
-1. A user can view the calculator in Standard mode 
-2. A user can view the calculator in Scientific mode 
-3. A user can toggle between the Scientific and Standard Views
-4. The system should change the color of the button when the user hovers the mouse over the button
+## 🚀 Запуск проекта
 
-### Mock Ups
+1. **Установите зависимости**:
+   ```bash
+   npm install
 
-## Part 1
-
-#### Standard View
-![alt text](readme-imgs/standardView.png)
-
-## Part 2
-
-#### Scientific View
-![alt text](readme-imgs/scientificView.png)
-
+npm start
+Приложение автоматически откроется в браузере по адресу http://localhost:3000
